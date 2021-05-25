@@ -1,0 +1,4 @@
+lola	yemi	test3@gmail.com	09890878	23	Jss2   
+Mide	Martins	test1@gmail.com	09078653355	18	Jss1 
+Adeleye	Temilade	test2@gmail.com	0813466454	12	jss1 
+Wuraola	Mariam	test4@gmail.com	09076886678	20	jss3 
